@@ -1,0 +1,95 @@
+body {
+    background-image: url(images/lawback.jpg);
+}
+.whole {
+    width:75%;
+    background-color: burlywood;
+    margin-left:auto;
+    margin-right: auto;
+}
+h1, h3 {
+    text-align: center;
+}
+section {
+    text-align: center;
+}
+.img {
+    width:140px;
+    height:115px;
+    border-radius: 10px;
+}
+.UM {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.Duke {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.BU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.WashU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.USC {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.ASU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.UCI {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.UCD {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.CU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.UW {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.OSU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.UNC {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.USD {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.LMU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
+.SCU {
+    width:100px;
+    height:82px;
+    border-radius: 10px;
+}
