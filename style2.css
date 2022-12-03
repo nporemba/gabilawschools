@@ -1,0 +1,31 @@
+body {
+    background-image: url(images/lawback2.webp);
+}
+.whole {
+    width:95%;
+    background-color: rgb(173, 145, 107);
+    margin-left:auto;
+    margin-right: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+h1 {
+    text-align: center;
+    font-size: 33.5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.item p{
+    display:inline-block
+}
+.school {
+    text-align: left;
+    width: 49%;
+}
+.letter {
+    text-align: right;
+    width: 50%;
+}
+hr {
+    height: 5px;
+    background-color: maroon;
+}
