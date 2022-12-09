@@ -1,0 +1,65 @@
+body {
+    background-image: url(images/lawback2.webp);
+    padding: 20px;
+}
+.whole {
+    width:95%;
+    background-color: rgb(233, 204, 164);
+    margin-left:auto;
+    margin-right: auto;
+}
+.button {
+    font-size: large;
+    background-color:maroon;
+    border-color: white;
+    color:white;
+}
+hr {
+    height: 5px;
+    background-color: maroon;
+    border-color: white;
+}
+.top-line {
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 38.5px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+    font-size: 30px;
+    color: white;
+}
+h3 {
+    text-align: center;
+    font-size: 21.5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section {
+    text-align: center;
+}
+.img {
+    width:125px;
+    height:105px;
+    border-radius: 10px;
+    margin-top: -10px;
+}
+.reach {
+    background: linear-gradient(rgb(122, 74, 14), rgb(185, 10, 19), rgb(162, 27, 27));
+    height: 33px;
+    margin: 10px auto;
+    width: 233px;
+}
+.target {
+    background: linear-gradient(rgb(122, 74, 14), rgb(185, 10, 19), rgb(162, 27, 27));
+    height: 37.5px;
+    margin: 10px auto;
+    width: 233px;
+}
+.safety {
+    background: linear-gradient(rgb(122, 74, 14), rgb(185, 10, 19), rgb(162, 27, 27));
+    height: 36px;
+    margin: 10px auto;
+    width: 225px;
+}
